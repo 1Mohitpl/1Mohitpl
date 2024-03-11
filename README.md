@@ -1,4 +1,4 @@
-- 👋 Hi, I’m am Mohit Kumar Paul (@1Mohitpl), Completed My Engineering in Electronics and communications engineering 
+- 👋 Hi, I’m Mohit Kumar Paul (@1Mohitpl), Completed My Engineering in Electronics and communications engineering 
 - 👀 I’m interested in Computer science and Engineering 
 - 🌱 I’m currently learning ... MERN stack and also have knolwdge about C++, SQL, HTML, CSS and Practicing DSA 
 - 💞️ I’m looking for SDE role.... 
