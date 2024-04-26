@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... MERN stack and also have knolwdge about C++, SQL, HTML, CSS and Practicing DSA 
 - 💞️ I’m looking for SDE role.... 
 - 📫 How to reach me Email : mohit1paul@gmail.com
-- Hobies playing Badminton and watcing Web series 
+- Hobies playing Badminton and watching Web series 
 
 
 1Mohitpl/1Mohitpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
