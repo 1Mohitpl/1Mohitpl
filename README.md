@@ -5,7 +5,9 @@ Hello👋 world
 
 
 # 💫 Fullstack developer from India:
-- 👋 Hi, I’m Mohit Kumar Paul (@1Mohitpl), Completed My Engineering in Electronics and communications engineering <br>- 👀 I’m interested in Computer science and Engineering <br>- 🌱 I’m currently learning ... MERN stack and also have knowledge about C++, SQL, HTML, CSS, javascript, React and Practicing DSA <br>- 💞️ I’m looking for an SDE role... <br>- 📫 How to reach me Email: mohit1paul@gmail.com<br>- Hobbies playing Badminton and watching Web series 
+- 👋 Hi, I’m Mohit Kumar Paul (@1Mohitpl), Completed My Engineering in Electronics and communications engineering <br>- 👀 I’m interested in Computer science and Engineering <br>- 🌱 I’m currently learning ... MERN stack and also have knowledge about C++, SQL, HTML, CSS, javascript, React and Practicing DSA <br>- 💞️ I’m looking for an SDE role... <br>- 📫 How to reach me Email: mohit1paul@gmail.com<br>- Hobbies playing Badminton and watching Web series
+
+ <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 ## 🌐 Socials:
